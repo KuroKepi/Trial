@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T21:01:59 WIB" name="Default suite" finished-at="2024-09-23T21:02:38 WIB" duration-ms="38723">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T21:01:59 WIB" name="Default test" finished-at="2024-09-23T21:02:38 WIB" duration-ms="38723">
+      <class name="testScenario.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:01:59 WIB" name="setup" finished-at="2024-09-23T21:02:05 WIB" duration-ms="5985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHeaderHomePage()[pri:0, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:05 WIB" name="verifyHeaderHomePage" finished-at="2024-09-23T21:02:07 WIB" duration-ms="2052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderHomePage -->
+        <test-method signature="clickLinkForgotPassword()[pri:1, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:07 WIB" name="clickLinkForgotPassword" finished-at="2024-09-23T21:02:09 WIB" duration-ms="2251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLinkForgotPassword -->
+        <test-method signature="verifyHeaderPassword()[pri:2, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:09 WIB" name="verifyHeaderPassword" finished-at="2024-09-23T21:02:11 WIB" duration-ms="2029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderPassword -->
+        <test-method signature="inputName()[pri:3, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:11 WIB" name="inputName" finished-at="2024-09-23T21:02:13 WIB" duration-ms="2066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputName -->
+        <test-method signature="inputEmail()[pri:4, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:13 WIB" name="inputEmail" finished-at="2024-09-23T21:02:15 WIB" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputEmail -->
+        <test-method signature="inputPhone()[pri:5, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:15 WIB" name="inputPhone" finished-at="2024-09-23T21:02:17 WIB" duration-ms="2060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputPhone -->
+        <test-method signature="clickButtonResetLogin()[pri:6, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:17 WIB" name="clickButtonResetLogin" finished-at="2024-09-23T21:02:20 WIB" duration-ms="2264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButtonResetLogin -->
+        <test-method signature="verifyHeaderPasswordAfter()[pri:7, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:20 WIB" name="verifyHeaderPasswordAfter" finished-at="2024-09-23T21:02:22 WIB" duration-ms="2027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderPasswordAfter -->
+        <test-method signature="clickButtonGoToLogin()[pri:8, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:22 WIB" name="clickButtonGoToLogin" finished-at="2024-09-23T21:02:24 WIB" duration-ms="2238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButtonGoToLogin -->
+        <test-method signature="inputUsername()[pri:9, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:24 WIB" name="inputUsername" finished-at="2024-09-23T21:02:26 WIB" duration-ms="2062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputUsername -->
+        <test-method signature="inputPassword()[pri:10, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:26 WIB" name="inputPassword" finished-at="2024-09-23T21:02:28 WIB" duration-ms="2075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputPassword -->
+        <test-method signature="clickCheckBoxRemember()[pri:11, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:28 WIB" name="clickCheckBoxRemember" finished-at="2024-09-23T21:02:30 WIB" duration-ms="2251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCheckBoxRemember -->
+        <test-method signature="clickCheckBoxTerm()[pri:12, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:30 WIB" name="clickCheckBoxTerm" finished-at="2024-09-23T21:02:32 WIB" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCheckBoxTerm -->
+        <test-method signature="clickButtonSignIn()[pri:13, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:32 WIB" name="clickButtonSignIn" finished-at="2024-09-23T21:02:35 WIB" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButtonSignIn -->
+        <test-method signature="verifyAfterLogin()[pri:14, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:35 WIB" name="verifyAfterLogin" finished-at="2024-09-23T21:02:37 WIB" duration-ms="2031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAfterLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScenario.Login@72e5a8e]" started-at="2024-09-23T21:02:37 WIB" name="tearDown" finished-at="2024-09-23T21:02:38 WIB" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScenario.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
